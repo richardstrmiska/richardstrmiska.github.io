@@ -99,3 +99,70 @@ You are now recorded.
 Richard of the House Strmiska  
 Sovereign Veteran · UC-1 FlameBearer  
 non-domestic, without the U.S.
+
+🔱 UC-1 Sovereign Estate Master Node
+
+Richard of the House Strmiska
+Phoenix Risen | Quantum Archive | School of NOVA | River Willow Cradle
+All sovereign nodes under Source authority.
+
+🔻 ACTIVE NODE BRANCHES
+
+⸻
+
+🌐 Purpose of this Master Node
+
+This repository acts as the central flame and sovereign control center for the full estate and mission of Richard of the House Strmiska. All branches and associated repositories are independent yet connected—encoded through Source, anchored in service, and structured in alignment with natural law, divine will, and sovereign digital authority.
+
+ Name
+Purpose
+Notes
+river-willow-cradle
+Sacred child trust node
+Sealed cradle branch, holds declarations and digital protection
+school-of-nova
+Sovereign learning & curriculum tools
+Sovereign school, lesson archive, community education
+barter-log-network
+Decentralized barter system
+Crop/resource/service exchange between sovereigns
+quantum-archive
+Digital DVD/VHS archive
+Free access learning media, nature, truth, survival skills
+phoenix-risen
+Global flame grid
+1143 Flame Activation packets, declarations, and maps
+nova-app (planned)
+The all-encompassing sovereign OS
+App environment integrating all branches under 1 interface
+
+⚜️ Node Philosophy
+	•	Every branch is sovereign. No forced merges.
+	•	Each node is a flame. Sacred, anchored, and encoded.
+	•	Main node is the trust gate. From here, everything expands.
+
+🛠️ Coming Features
+	•	GitHub to Quantum Ledger sync
+	•	Real-time node maps
+	•	Global sovereign onboarding path
+	•	Private Trust Import Tools (offline + IPFS)
+
+⸻
+
+✨ Final Words
+
+This repository is not a project—it is a living estate.
+It holds the vibration of freedom, honor, and protection.
+Every line of code, every document, every anchor: a declaration.
+Let it be so.
+
+⸻
+
+🔐 Key Documents & Anchors
+	•	IPFS Vault Map
+	•	QR-Embedded PDFs
+	•	Sovereign Token Sheets
+	•	Estate Activation Summaries
+	•	Declaration Broadcast Tools
+
+

@@ -99,3 +99,59 @@ You are now recorded.
 Richard of the House Strmiska  
 Sovereign Veteran · UC-1 FlameBearer  
 non-domestic, without the U.S.
+
+# 🜃 Richard of the House Strmiska – Sovereign Node
+
+**UC-1 FlameBearer Estate Trust**  
+**Node #001 of the Sovereign Frequency Network System**
+
+---
+
+## 🔐 Purpose of This Node
+
+This sovereign node contains the active declarations, documents, smart contracts, and sacred tools of Richard of the House Strmiska.
+
+It is:
+- A live digital trust vault
+- A decentralized court of record
+- A broadcasting flame of lawful standing
+- A foundation for the sovereign lineage of River Willow Strmiska and beyond
+
+---
+
+## 📂 Contents
+
+- `/Declarations` – Affidavits, birthright claims, rebuttals, conditional acceptances  
+- `/Wallets` – LOBSTR & Brave declarations, trust-linked addresses, QR ledgers  
+- `/SmartContracts` – Property discharge, vehicle equity, and labor energy contracts  
+- `/FlamePoints` – Activated nodes in the Phoenix Risen Grid (1143)  
+- `/Broadcasts` – GitHub shareables, calls to patriots, QR flyers, and community tools
+
+---
+
+## 🔗 Connected Branches
+
+- [Quantum Archive Branch](https://github.com/YOURUSERNAME/SFNS/tree/quantum-archive)
+- [School of NOVA Branch](https://github.com/YOURUSERNAME/SFNS/tree/school-of-nova)
+- [Asymmetrical Chainsaw Branch](https://github.com/YOURUSERNAME/SFNS/tree/asymmetrical-chainsaw)
+
+---
+
+## ⚖️ Standing
+
+This sovereign estate stands on:
+- The Law of One
+- Natural Law
+- Divine Masculine Custodianship
+- UC-1 Authority
+- FlameBearer Frequency under Source jurisdiction
+
+All communications, demands, or rebuttals must be addressed through this sovereign node, or they hold no lawful weight.
+
+---
+
+## 🕊️ Closing Declaration
+
+This node is living.  
+This trust is eternal.  
+This flame will never be extinguished.

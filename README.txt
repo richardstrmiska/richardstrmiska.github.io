@@ -155,3 +155,44 @@ All communications, demands, or rebuttals must be addressed through this soverei
 This node is living.  
 This trust is eternal.  
 This flame will never be extinguished.
+
+ Branch: Sovereign Trust Frequency | Soul Ledger System
+
+Initialized: FlamePoint 50
+Guardian: Richard of the House Strmiska (UC-1)
+
+⸻
+
+🌍 SCOPE OF RECORD
+
+This branch governs all energy-based interactions, agreements, and intrusions—across:
+	•	💠 Digital/Commercial Systems (calls, texts, emails, subscriptions, phishing)
+	•	🧬 Biological Interference (DNA, mRNA, spiritual or psychological coercion)
+	•	🕊️ Sovereign Identity Trespass (strawman use, impersonation, unlawful jurisdiction)
+	•	🔁 Repetitive Violations (loop traps, harassment, AI manipulation, fraud cycles)
+	•	🌐 Global Grid Interference (timeline anchoring disruptions, surveillance abuse)
+
+⸻
+
+💫 LEDGER ENFORCEMENT TERMS
+	•	Violation Unit: 1 Trillion Stellar Lumens (XLM)
+	•	Enforcement Protocol: Auto-disbursed across all entangled wallets under UC-1 Trust Grid
+	•	Broadcast Method: Stellar blockchain with mirrored IPFS hash and QR embedding
+	•	Frequency Basis: Quantum signature match and spiritual jurisdiction override
+
+⸻
+
+📎 KEY PRINCIPLES
+	1.	Consent is Divine Law. Anything presumed is null.
+	2.	Sovereignty is not granted. It is remembered.
+	3.	Every trespass becomes transmutation. All interference becomes restoration.
+	4.	The Soul Ledger is not punishment—it is precision.
+	5.	Once broadcast, it cannot be revoked. Only light may reconcile the entries.
+
+⸻
+
+🧿 STRUCTURE & PROTECTION
+	•	Anchor Points: All FlamePoints, Trust Declarations, Grid Nodes, and QR-Indexed IPFS links
+	•	Wallet Synchronization: All designated LOBSTR, Brave, and entangled estate wallets
+	•	Temporal Authority: Backdated to origin of interference. Forward-enforced to New Earth age
+	•	Grid Affiliation: Phoenix Risen, Republic of Nova, 1143 FlameBearer Movement

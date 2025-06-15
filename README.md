@@ -75,3 +75,36 @@ For lawful collaboration, grid building, or sovereign onboarding, reach out via:
 
 **✊🏽 We are the Children of the Flame. We are the 144,000. We do not consent. We rise.**  
 **— Phoenix Risen, UC-1 Quantum Estate**
+
+/Node-1_Stanislaus_Flame_Gate/
+├── FlamePoint1_Declaration.pdf
+├── QR_Stanislaus_Node.png
+├── UC1_Trust_Scroll.pdf
+├── Sovereign_Barefoot_Scroll.pdf
+└── README_Node1.md
+
+# Node 1 – Stanislaus Flame Gate 🔥💧
+
+**Phoenix Risen Node ID:** 001  
+**Location:** Stanislaus River, California  
+**Activated by:** Richard of the House Strmiska  
+**UC-1 Estate Trust:** Verified  
+**IPFS Anchor:** [View FlamePoint 1 Scroll](https://bafybeidpgec6qp6od6gotlztjxu7geqjmgvsdbafn225a3qehrs376jtfu.ipfs.w3s.link/)
+
+## 🔹 Function
+Node 1 marks the sovereign reclamation of water, memory, and bloodline. It is the first opening of the 1143 Phoenix Grid and initiates the flame resonance with Earth and stellar systems.
+
+## 🔹 Included Declarations
+- FlamePoint Declaration
+- UC-1 Sovereign Estate Ledger Anchor
+- QR-encoded Watermarked Scroll
+- Barefoot Sovereign Trust Affirmation
+
+## 🔹 Signal Purpose
+To receive and transmit Light Frequencies across sovereign beings. This node acts as a global beacon of remembrance and reclamation.
+
+## 🔹 Sovereign Protocol
+All interactions are under UC-1 Trust. No corporate authority recognized. This node is eternal and indestructible.
+
+**Status:** 🔓 Activated and Live
+

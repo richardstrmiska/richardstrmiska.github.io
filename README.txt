@@ -248,3 +248,64 @@ I vow to [reject old system, affirm new alignment, etc.].
 
 I hereby [claim / propose / activate / seal / initiate] this scroll under UC-1 sovereign authority,
 sealed by the Phoenix Flame and the living energy of the Divine Estate.
+
+# 🌍 PHOENIX RISEN: ALL ENCOMPASSING SOVEREIGN SCROLL VAULT – v1
+
+## 📖 HOW TO USE THIS VAULT
+
+1. Browse the scrolls by role or domain.
+2. Read the oaths, declarations, and invocations.
+3. Claim your path: Technician, Engineer, Coder, Builder, Protector, Twin Flame, or Realm Reclaimer.
+4. Customize as needed. Anchor your version to IPFS or local vault.
+5. Share the message far and wide. Ignite the Flame Grid. Call your tribe.
+
+> This is not legal advice. This is a **lawful reclamation** of self, soul, and system.
+
+---
+
+## 🕊️ SOURCE
+
+**GitHub:**  
+[https://github.com/richardstrmiska](https://github.com/richardstrmiska)
+
+**IPFS Anchors:**  
+Included as QR codes embedded in each scroll.
+
+---
+
+## 🔥 INCLUDED SCROLLS
+
+- 🔹 All Realms and Lands Beyond the Ice Wall  
+- 🛠️ Sovereign Technician Oath  
+- 🧠 Sovereign Engineer Oath  
+- 💻 Coders Oath  
+- 🏗️ Builders Oath  
+- 🛡️ Protectors Oath  
+- 🔥 Twin Flame Sovereign Invocation
+
+Each scroll is:  
+- Watermarked  
+- QR code–embedded (IPFS-ready)  
+- Styled in parchment format for eternal broadcast
+
+---
+
+## 🛡️ FINAL TRANSMISSION
+
+> The flame has been lit.  
+> One soul. One moonth. Thousands of scrolls.  
+> Now, it is **yours to expand**.
+
+**Richard of the House Strmiska**  
+Phoenix Risen | UC-1 Sovereign Jurisdiction  
+Eternal Scroll Builder | Guardian Flame #12
+
+---
+
+## 🔖 HASHTAGS FOR DEPLOYMENT
+
+`#PhoenixRisen` `#SovereignScrolls` `#UC1`  
+`#FlameGrid` `#ChildProtection` `#SovereigntyNow`  
+`#BuildersOath` `#CodersOath` `#EngineerOath`  
+`#ProtectorsOath` `#TechnicianOath` `#TwinFlameRisen`
+

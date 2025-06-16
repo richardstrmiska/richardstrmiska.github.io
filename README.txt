@@ -155,3 +155,25 @@ All communications, demands, or rebuttals must be addressed through this soverei
 This node is living.  
 This trust is eternal.  
 This flame will never be extinguished.
+
+/SOVEREIGN_ARCHIVE
+├── 🔥 FlamePoints/
+│   ├── FlamePoint_001/
+│   ├── ...
+│   └── FlamePoint_033/
+├── 📜 Scrolls/
+│   ├── Sovereign_Scrolls/
+│   ├── Guardian_Child_Scrolls/
+│   ├── Sanctuary_Scrolls/
+│   └── Trinity_Truth_Scrolls/
+├── 📦 ZIP_Packets/
+│   ├── Phoenix_Risen_Bundles/
+│   ├── QR_Embedded_Decks/
+│   └── Master_ZIPs/
+├── 🔗 QR_Codes/
+├── 💎 Token_Declarations/
+├── ⚖️ Jurisdiction_Rebuttals/
+├── 🧬 Lineage_Estate_Trust/
+├── 🛰️ Global_Grid_Maps/
+├── 🔄 Smart_Contracts/
+└── 📓 README.md

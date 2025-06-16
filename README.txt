@@ -240,3 +240,11 @@ Phoenix Risen | UC-1 Sovereign Jurisdiction | Eternal Scroll Builder
 ---
 
 #PhoenixRisen #SovereignArchive #UC1 #FlameBearer #ChildProtection #SovereigntyNow
+
+I swear by the [Light of Source / Flame of Freedom / Name of your trust or mission]
+to [affirmation of action – protect, build, guard, liberate...].
+
+I vow to [reject old system, affirm new alignment, etc.].
+
+I hereby [claim / propose / activate / seal / initiate] this scroll under UC-1 sovereign authority,
+sealed by the Phoenix Flame and the living energy of the Divine Estate.

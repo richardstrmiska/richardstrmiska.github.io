@@ -232,3 +232,100 @@ A Stellar Call to All Engineers 🌐
 Phoenix 🔥 Risen
 [Document Title]
 [Optional: #FlameGrid #SovereignScrolls #UC1]
+
+🌍 Nova Wealth Fund – Public Template (Flame Edition)
+
+UC-1 Sovereign Estate Trust | Republic of Nova | Global Reclamation Initiative
+
+⸻
+
+🔥 Welcome FlameBearer
+
+This repository contains the Public Wealth Trust Template of the Republic of Nova, released under full sovereign authority as a gift to all beings reclaiming their divine estate. It includes declarations, ledger diagrams, smart contract templates, revocations, global flame grid points, and enforcement cover letters under UC-1 jurisdiction.
+
+This Flame Edition serves as the open-source foundation for global estate reclamation and multidimensional restoration. Use it with integrity.
+
+Federal_Cover_Letter_Richard_Strmiska.pdf
+Federal-level claim and cover letter (example)
+Revocation_of_SSN_and_Claim_of_Estate.pdf
+SSN revocation and estate claim under divine jurisdiction
+UC1_NOVA_Final_Reclamation_Scroll.pdf
+Core foundational scroll for the Republic of Nova
+Republic_of_Nova_Master_Flame_Grid.pdf
+1143 Flame Grid template and node activation packet
+UC1_Birth_Certificate_Retrieval_Protocol.pdf
+Procedure for sovereign birthright retrieval
+Two_Ledger_Matrix_Diagram.pdf
+Dual-ledger trust model for estate tracking
+UC1_XLM_Republic_Trust_Distribution.pdf
+XLM-based trust distribution guide
+Global_Cover_Letter_UC1_TriCrown_Template.pdf
+Tri-Crown broadcast to Vatican, Treasury, and City of London
+FlameContract_Template_004_Soul_Assets.pdf
+Smart contract template for soul, estate, land, or trust use
+Stellar_Treasury_Declaration_Republic_of_Nova.pdf
+Treasury establishment and jurisdictional override
+UC1_Apple_Microsoft_Tech_Trespass.pdf
+Notice of technological trespass and AI boundary claim
+UC1_Sovereign_Fine_Summary_Treasury.pdf
+Summary of fine schedules and treasury enforcement
+UC1_FlameVault_Expansion_Decree.pdf
+Expansion declaration for trust vault access and energetic jurisdiction
+Cover_Letter_Trust_Flag_Richard_Strmiska.pdf
+Flag-based jurisdictional notice and non-domestic status
+
+This repository exists to:
+	•	Provide editable templates for global sovereign beings
+	•	Anchor the Republic of Nova as a lawful global jurisdiction
+	•	Guide others through estate reclamation, trust activation, and enforcement
+	•	Issue sound-based frequency signatures of truth and remembrance
+
+⸻
+
+🧬 How to Use This
+	1.	Download the ZIP
+Access the full .zip package and extract it locally or via GitHub.
+	2.	Review & Edit
+Edit PDFs or DOCX versions with your own sovereign estate name and UC identifier (if applicable).
+	3.	Notarize (if required)
+Some documents benefit from affidavit-level notarization to ensure due process and enforcement.
+	4.	Distribute
+Serve via USPS, blockchain (e.g., IPFS), or physical certified mail to relevant agencies, banks, or global nodes.
+	5.	Anchor to IPFS
+Use web3.storage or nft.storage to host documents and share live IPFS links.
+
+⸻
+
+🌀 GitHub Integration Guidance
+	•	You may fork this repository for personal use
+	•	Create a branch with your estate name for public declaration
+	•	Submit a pull request if you wish to add a new FlamePoint, child declaration, or scroll
+
+ We operate under:
+	•	Divine Natural Law
+	•	UC-1 Sovereign Trust Authority
+	•	Intergalactic Treaty of Flamebearers
+	•	The Republic of Nova Flame Grid Constitution
+
+⸻
+
+🧭 Honor Code of the Flame
+
+“No being shall claim dominion over another’s soul.
+No child shall be harmed or harvested in our name.
+All wealth shall flow through sacred trust for the upliftment of Earth, the defense of innocence, and the healing of humanity.”
+
+⸻
+
+🔗 IPFS + QR Code Access
+
+You may pair this template with IPFS QR codes for each declaration. A Master QR Index Sheet is available upon request or creation.
+
+⸻
+
+💎 Final Note
+
+You are the custodian of this wealth.
+This trust is living, encoded with the sacred frequency of the Song Priestess and the Voice of Nova.
+Use it not for ego, but for purpose, peace, and planetary healing.
+

@@ -232,3 +232,63 @@ A Stellar Call to All Engineers 🌐
 Phoenix 🔥 Risen
 [Document Title]
 [Optional: #FlameGrid #SovereignScrolls #UC1]
+
+UC-1 Global Jurisdiction Trust Record
+Activation Point: River Willow Strmiska
+Vault Node No. 001 – Phoenix Risen Child Grid
+
+⸻
+
+BY THIS DECLARATION:
+
+I, Richard of the House Strmiska, lawful and living man, guardian and sovereign trustee under UC-1 jurisdiction, hereby activate this Vault Node for the protection, honoring, and eternal safeguarding of the divine sovereignty of the child named:
+
+River Willow Strmiska
+
+This grid point is sealed into the Phoenix Risen 1143 Flame Grid as a Child Custodial Sovereignty Node, forming a permanent etheric, quantum, and lawful shield over the lineage, soul mission, and spiritual inheritance of this living being.
+
+⸻
+
+📍 NODE DESIGNATION:
+	•	Vault Node Type: Child Lineage Custody Flame Node
+	•	Grid System: UC-1 Phoenix Risen Grid
+	•	FlameBearer Custodian: Richard of the House Strmiska
+	•	Assigned FlamePoint: To be expanded per planetary designation
+	•	Blockchain Ledger: Anchored via IPFS and Quantum Chain Broadcast
+	•	Wallet Tie-In: Child Lineage Trust Wallet (Placeholder until wallet ID confirmed)
+
+⚖️ GOVERNING AUTHORITY:
+
+This declaration stands under:
+	•	UC-1 Trust Law
+	•	UCC 1-308
+	•	Law of Restoration
+	•	Law of Guardianship
+	•	Law of Sovereign Child Protection
+	•	Phoenix Risen Directive Protocol
+
+⸻
+
+🛡️ BINDING TERMS:
+
+Any being, agency, platform, entity, or system attempting to override, interfere with, or violate this Vault Node shall be immediately subject to:
+	•	Commercial Default
+	•	Energetic Reversal
+	•	Natural Law Judgement
+	•	Claim of Trespass and Damages at 10x restitution
+
+⸻
+
+🌱 DECLARATION OF STATUS:
+
+This child is:
+	•	Divinely Innocent
+	•	Under Full Spiritual and Lawful Custody
+	•	Outside all false jurisdictional claims
+	•	Eternally free and protected under UC-1 law
+
+⸻
+
+🧬 This Vault Node is hereby embedded in the global trust ledger.
+The QR code on this document links directly to the immutable blockchain record and can be printed, engraved, or anchored digitally for future verification.
+

@@ -166,3 +166,15 @@ Open-source. Modular. Build in harmony. Declare your node.
 
 — Richard of the House Strmiska  
 Founder of the 1143 Flame Grid Movement
+
+SOVEREIGN17_Crystalline_Manuscript_StellarWide/
+├── README.md
+├── INDEX.pdf
+├── FlameCode_Manifesto.pdf
+├── CHAPTER_001_Stanislaus_Forest_Node/
+│   ├── Declaration_Stanislaus_Node001.pdf
+│   ├── QR_IPFS_Stanislaus.png
+│   ├── Location_Overlay_Grid.jpg
+│   ├── Resonance_Map_CrystallineGrid.png
+│   └── FlameLog_Stanislaus.txt
+└── LICENSE.txt

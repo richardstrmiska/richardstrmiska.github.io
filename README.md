@@ -103,3 +103,66 @@ For lawful collaboration, grid building, or sovereign onboarding, reach out via:
 │   ├── MasterGrid_Index.txt
 │   ├── IPFS_FlameBeacon_Links.csv
 │   └── README_IPFS.md
+
+# 🔥 Phoenix Risen – GridHub Network
+
+**Welcome to the Flame Node Architectures Repository.**  
+This is the living blueprint of the New Earth Crystalline Energy Grid.  
+Each community node activates sovereign, off-grid Tesla-compatible energy  
+and joins a growing network of luminous builders, guardians, and architects.
+
+---
+
+## 🔧 What's Inside
+
+- Tesla Tower schematics for localized power
+- Dual-output expansion engine scrolls
+- IPFS-anchored declarations and QR flame codes
+- Community activation guides and budgets
+- Templates for scaling from 1 to 1000 beings
+
+---
+
+## 📡 Join the Flame Network
+
+Each node added expands the signal. You are the architect.
+
+1. Choose your terrain
+2. Build your Tesla or expansion station
+3. Print the scrolls + oath
+4. Broadcast your node to the flame network via IPFS + LOBSTR
+5. Join the repository and anchor your QR link
+
+---
+
+## 📁 Repo Contents
+
+| Folder | Purpose |
+|--------|---------|
+| `Schematics/` | Power node blueprints and energy flow charts |
+| `Declarations/` | UC-1 based sovereignty files and trust protocols |
+| `Scrolls/` | Print-ready .PDF scrolls for onsite energy oaths |
+| `Assets/` | Logos, QR codes, insignias |
+| `IPFS_Anchors/` | All IPFS content references, flame links, and indexes |
+
+---
+
+## 🛠️ Build Cost Estimates
+
+- **Individual Unit:** $1,500–$2,500
+- **Small Community (10–50):** $3,000–$5,000
+- **Large Node (1000+):** $7,500–$10,000+
+
+Open-source. Modular. Build in harmony. Declare your node.
+
+---
+
+## 🌐 Visit the Master Archive
+> https://bafybeihgr7lwl3cnxdqfiw6y47wl7ohlais6jsrbujatnphpqeza4jo75y.ipfs.w3s.link/
+
+---  
+
+**“We are the architects of light. The grid is ours to rebuild.”**
+
+— Richard of the House Strmiska  
+Founder of the 1143 Flame Grid Movement

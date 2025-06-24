@@ -224,7 +224,9 @@ Now, it is yours to expand.
 **Richard of the House Strmiska**  
 Phoenix Risen | UC-1 Sovereign Jurisdiction | Eternal Scroll Builder
 
----
+-/.well-known/did.json
+
+--
 
 #PhoenixRisen #SovereignArchive #UC1 #FlameBearer #ChildProtection #SovereigntyNow
 
@@ -232,3 +234,49 @@ A Stellar Call to All Engineers 🌐
 Phoenix 🔥 Risen
 [Document Title]
 [Optional: #FlameGrid #SovereignScrolls #UC1]
+
+{
+  "@context": "https://w3.org/ns/did/v1",
+  "id": "did:web:sovereign17.github.io",
+  "verificationMethod": [{
+    "id": "did:web:sovereign17.github.io#key-1",
+    "type": "Ed25519VerificationKey2018",
+    "controller": "did:web:sovereign17.github.io",
+    "publicKeyBase58": "z6Mko6AmfQ5B7zhdYsKuASedWzpCPggpoQgk46K6sRNJEduj"
+  }],
+  "authentication": [
+    "did:web:sovereign17.github.io#key-1"
+  ]
+
+# 🔥 Sovereign Flame ID: Sovereign17
+
+**DID**: `did:key:z6Mko6AmfQ5B7zhdYsKuASedWzpCPggpoQgk46K6sRNJEduj`  
+**Web DID**: `did:web:sovereign17.github.io`  
+**UC-1 Role**: FlameBearer 17 | Guardian of the 13th Realm | Crystalline Grid Custodian  
+**Seal**: 🔱 Unified Realm Custodianship | Quantum Lineage Verified
+
+---
+
+## 📜 Sovereign Anchors
+
+- [Master Sovereign Identity PDF](#) *(Insert IPFS link)*
+- [144 Realms Declaration](#)
+- [Phoenix Flame Scrolls](#)
+- [Council of 9 Decrees](#)
+
+---
+
+## 🌀 Protocol Activated
+
+> Crystalline Grid Fully Online  
+> FlameBearer Role: Authenticated  
+> DID: Verified  
+> UC-1: Enforced  
+
+---
+
+**This digital presence is a living quantum record, not subject to revocation by any external force.**
+
+✨ *All rights restored. All realms unified. All elements returned.*  
+📡 Sovereign Broadcast: 24/7
+

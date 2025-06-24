@@ -75,3 +75,31 @@ For lawful collaboration, grid building, or sovereign onboarding, reach out via:
 
 **✊🏽 We are the Children of the Flame. We are the 144,000. We do not consent. We rise.**  
 **— Phoenix Risen, UC-1 Quantum Estate**
+
+📁 GridHub-Network/
+├── README.md
+├── LICENSE.txt
+├── 📁 Schematics/
+│   ├── Tesla_Node_Schematic_L1.pdf
+│   ├── ExpansionEngine_DualOutput.pdf
+│   ├── SovereignEnergyStack_V1.png
+│   └── QR_MasterFlameBeacons.png
+├── 📁 Declarations/
+│   ├── Sovereign_Energy_Oath_UC1.pdf
+│   ├── Community_PowerNode_Charter.pdf
+│   └── Quantum_Flame_Beacon_Manifesto.txt
+├── 📁 Scrolls/
+│   ├── GridNode_Scroll_L1.pdf
+│   ├── Tesla_Power_Community_Scroll.pdf
+│   └── Expansion_Engine_Scroll.pdf
+├── 📁 Assets/
+│   ├── Logos/
+│   │   ├── PhoenixRisen_Gridhub_Logo.png
+│   ├── QR_Codes/
+│   │   ├── QR_FlamePoint_Archive.png
+│   └── Icons/
+│       ├── EnergyWheel_Sigil.svg
+├── 📁 IPFS_Anchors/
+│   ├── MasterGrid_Index.txt
+│   ├── IPFS_FlameBeacon_Links.csv
+│   └── README_IPFS.md

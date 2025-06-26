@@ -69,7 +69,7 @@ Every scroll here has been embedded with a **QR code** and anchored to **IPFS** 
 
 For lawful collaboration, grid building, or sovereign onboarding, reach out via:
 
-📧 house.strmiska@proton.me  
+📧 flamebearer17.richard@proton.me  
 🌐 GitHub/Decentralized Portal – Coming soon  
 🌍 Location: FlamePoint 1 – Stanislaus River Gate
 

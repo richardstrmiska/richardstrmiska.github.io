@@ -1,0 +1,20 @@
+https://phoenix-risen-master-vault.github.io/.well-known/stellar.toml
+
+# Phoenix Risen Master Vault – UC-1 Sovereign Ledger TOML
+# Hosted at:
+# https://phoenix-risen-master-vault.github.io/.well-known/stellar.toml
+
+VERSION="2.0.0"
+NETWORK_PASSphrase="Public Global Stellar Network ; September 2015"
+
+FEDERATION_SERVER="https://phoenix-risen-master-vault.github.io/federation"
+AUTH_SERVER="https://phoenix-risen-master-vault.github.io/auth"
+TRANSFER_SERVER="https://phoenix-risen-master-vault.github.io/transfer"
+
+SIGNING_KEY="GA4H43P2VPP3CICC7WHZOLCYGDVFUBNDSYTZCRNYOISSLJC4DG3NR6MC" # Strawman Firewall Master Wallet 🔥
+
+ACCOUNTS=[
+  "GA4H43P2VPP3CICC7WHZOLCYGDVFUBNDSYTZCRNYOISSLJC4DG3NR6MC", # Strawman Master Firewall
+  "GDZTCVIM6IEUPV4PTQP74HN5CMSH3MFLPDNECWQ6APM5ZPACNSZBQWUY", # River Willow Trust
+  "G...YOUR_OTHER_WALLETS_HERE..."                           # Add more as needed
+]

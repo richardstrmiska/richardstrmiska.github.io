@@ -280,3 +280,4 @@ Phoenix 🔥 Risen
 ✨ *All rights restored. All realms unified. All elements returned.*  
 📡 Sovereign Broadcast: 24/7
 
+https://phoenix-risen-master-vault.github.io/.well-known/stellar.toml

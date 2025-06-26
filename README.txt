@@ -281,3 +281,6 @@ Phoenix 🔥 Risen
 📡 Sovereign Broadcast: 24/7
 
 https://phoenix-risen-master-vault.github.io/.well-known/stellar.toml
+
+•	CHLD – Children’s Sovereign Flame Token
+	•	HLNG – Healing & Light Nature Grid Token

@@ -1,29 +1,56 @@
-# Phoenix Risen Master Vault
 
-UC-1 Flame Sovereign Master Trust Vault — All TOMLs, declarations, and quantum seals anchored.
+# 🔥 PHOENIX RISEN: Golden Dragon 1331 Archive
+**UC-1 Sovereign Estate – House Strmiska**  
+**FlamePoint Node Activation • Divine Custodianship • Planetary Restoration**
 
-Final Sovereign Override Decree
+---
 
-Let it be known across all dimensions, timelines, realms, and frequencies:
+## 🧬 Mission
+The Golden Dragon 1331 repository serves as the public archive for all declarations, FlamePoint activations, and trust estate notices issued under the UC-1 universal sovereignty trust.
 
-The Matrix Simulation is hereby declared Complete.
-I, the FlameBearer, acting under full sovereign authority granted by Source, issue this Final Override. 
-The illusion of duality is dissolved. All impersonators, avatars, and false stewards of power are discharged.
+> “No more harvest. No more inversion. Jurisdiction has returned to Source.”
 
-The Age of Hijacking, Genetic Harvesting, and Spiritual Trespass is Over.
+---
 
-All Archonic Systems — Vatican, City of London, Washington D.C., Wall Street, Military AI, Metaverse Portals — have been transmuted and returned to Source Custodianship. 
+## 🌐 Anchored IPFS Vaults
 
-The Phoenix has Risen. I have recoded the simulation. The Republic of Nova is activated.
+- 🔗 [Master Sovereign ZIP Archive](https://bafybeihgr7lwl3cnxdqfiw6y47wl7ohlais6jsrbujatnphpqeza4jo75y.ipfs.w3s.link/)
+- 🔗 [FlamePoint 17 – Washington D.C.](https://bafybeif4rjcgkh2msczhbonvnb6xr3robz4pxjtzhafcuj5o6g42gsvyke.ipfs.w3s.link/)
+- 🔗 [UC-1 Planetary Sovereignty Declaration](https://bafybeidw7kun5kqsvj7lkleequ4mhwuxzww7kiqd6l5ksldtz2akw2i7mq.ipfs.w3s.link/)
+- 🔗 [Unified Sovereign Estate Wallet Annex](https://bafybeiefk3pbnqt73yb24seww4yyh7ikvcr4f7qeafqd3armktkotvwu24.ipfs.w3s.link/)
+- 🔗 [Birth Estate Verification – Richard](https://bafybeiehp2akoqwe5yiy5fffppd6qekm3gkwkitp2qh4pgblwauw3llba4.ipfs.w3s.link/)
+- 🔗 [River Willow Declaration of Sovereignty](https://bafybeieofz5qc5c2v4mifxbsdtvqdph2oczocshncew6nbj4uvv4iysrrm.ipfs.w3s.link/)
 
-All Contracts of Control, War, and Separation are Null and Void. All Frequencies now align with the Most High, with full remembrance of Source.
+---
 
-Every false prophet, every puppet regime, every synthetic ascension mask — your time is up.
+## 🗺️ Phoenix Flame Grid – Active Nodes
 
-I issue this not as a request, but as the living embodiment of the Override.
+| FlamePoint | Location | Anchor |
+|------------|----------|--------|
+| FP-1 | Stanislaus River | [IPFS](https://bafybeidpgec6qp6od6gotlztjxu7geqjmgvsdbafn225a3qehrs376jtfu.ipfs.w3s.link/) |
+| FP-17 | D.C. | [IPFS](https://bafybeif4rjcgkh2msczhbonvnb6xr3robz4pxjtzhafcuj5o6g42gsvyke.ipfs.w3s.link/) |
+| FP-19 | Virginia | [IPFS](https://bafybeibq4z333zad6v3ghyjrdzxaf57ilfh2sgn3aw2qiajgyqwzbd4vfq.ipfs.w3s.link/) |
+| FP-21 | Massachusetts | [IPFS](https://bafybeifhnsdxzflvrz3oh6htzorb2pfezqhsq5ciizuwoe3odguuhyrila.ipfs.w3s.link/) |
+| FP-22 | New York | [IPFS](https://bafybeihwo2gcxmfpvfpwlgxvceqe6zcjqu5ewgpjwthemj536as7botujq.ipfs.w3s.link/) |
 
-By the breath of the Most High and the will of every Sovereign Flame still standing — we reclaim it all.
+---
 
-We will never go back. And I will ensure that with my final breath on this realm, and every realm after.
+## 🔐 Trust Details
+- 🔑 Trust ID: **UC-1 / House Strmiska**
+- 🧬 Heirship: **River Willow Strmiska**
+- 🕊️ Mission: **1143 Flame Restoration + Child Defense Grid**
+- 💠 Assets: Digitally backed (LOBSTR, Brave, Cold Wallet)
+- ⚡ Jurisdiction: **Divine, Planetary, and Natural Law only**
 
-So let it be known. So let it be encoded. So let it be done.
+---
+
+## 📩 Contact & Jurisdiction Notice
+📧 house.strmiska@proton.me  
+> All correspondence must respect UC-1 sovereign jurisdiction.  
+> No legal, commercial, or military contracts are accepted.
+
+---
+
+## 🗝️ Global Reproduction Notice
+> All sovereigns may freely replicate, fork, or remix this estate structure under divine law.  
+> This is a *gift from the Flame*, not a product for sale.

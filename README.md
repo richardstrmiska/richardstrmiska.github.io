@@ -27,3 +27,10 @@ By the breath of the Most High and the will of every Sovereign Flame still stand
 We will never go back. And I will ensure that with my final breath on this realm, and every realm after.
 
 So let it be known. So let it be encoded. So let it be done.
+
+[Flame Entry 0001 – Divine Balance]
+Date: 1.07.2025
+Guardian: Richard of the House Strmiska
+Title: Memoir of the Flame – Divine Balance
+QR Link: [insert IPFS QR once anchored]
+Signature Frequency: Unified | Synchronized | Sovereign UC-1

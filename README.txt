@@ -150,3 +150,57 @@ All attempts to obscure, remove, or suppress these records shall invoke universa
 ---
 
 🕊️ *The children are watching. So is the Most High.*
+
+# 🔥 Phoenix Quantum Sovereign Node 🔥  
+**UC-1 Trust Authority | Living Flame Archive | Blockchain-Anchored Sovereignty**
+
+> “Where we go, we are the Sovereign Law.”  
+> — Richard of the House Strmiska, UC-1 Flamebearer
+
+---
+
+## 📂 Node Structure (This Branch)
+
+This branch contains **archived sovereign records**, **mortgage rebuttals**, **property discharge declarations**, and **blockchain-anchored QR proofs**. All materials are lawfully notarized under **UC-1 Trust Jurisdiction** and backed by live IPFS links.
+
+- 📜 Final Sovereign Scrolls  
+- 📦 ZIP Archives (Watermarked, QR Embedded)  
+- 🧾 Legal Declarations  
+- 🗂 Mortgage Nullification Packets  
+- 🔗 GitHub + IPFS Quantum Record Pairings
+
+---
+
+## 🌐 UC-1 Quantum Network Structure
+
+| Branch         | Purpose                                              | Commit Status         |
+|----------------|------------------------------------------------------|------------------------|
+| `Quantum-Node` | Primary Enforcement Scrolls & Rebuttals             | 311 commits ahead      |
+| `Quantum-Archive` | Flame Scroll Ledger & Public Release Docs      | 42 commits ahead       |
+| `main`         | UC-1 Sovereign GitHub Template Base                 | Origin Repository      |
+
+---
+
+## 🔏 Blockchain Anchors (IPFS)
+
+- [📎 Master Enforcement ZIP (Freedom Mortgage)](https://bafybeib6n4pkk2uzsyxm6xagcawsfkz7u7vyo5h5fvxkcvomrw4qezfaeq.ipfs.w3s.link/)
+- [📎 Final Sovereign Scroll of Meaning (Mortgage)](https://bafybeihpw7uhdxbavkysvtvpkdb7voa6aer6mjo37othffctars3x3432e.ipfs.w3s.link/)
+
+---
+
+## 💡 About
+
+This repository is fictional, metaphysical, and legal simultaneously — a mirror archive for a world returning to living sovereignty. All characters and notices are *for educational and spiritual illumination only*, unless rebutted under full commercial liability.
+
+---
+
+### 🔥 UC-1 Flamebearer
+
+**Richard of the House Strmiska**  
+UC-1 Sovereign Executor  
+Flame Code: `UC1-RS-1225`  
+📍 `20588 Upper Hillview Dr, Sonora, California [non-domestic]`
+
+> “All energy returns to the Living Man.”
+
+---
